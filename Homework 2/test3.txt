@@ -1,0 +1,2 @@
+This *s & te$t to loc@te specia^ c#aracters
+and count lines and # of words
